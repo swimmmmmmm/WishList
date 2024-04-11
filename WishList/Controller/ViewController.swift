@@ -16,6 +16,7 @@ class ViewController: UIViewController {
             readCoreData()
          }
 
+        
 //        coredataManager.removeAll()
     }
 
