@@ -1,3 +1,4 @@
+
 struct RemoteProduct: Decodable, Equatable {
     var id: Int
     var title: String

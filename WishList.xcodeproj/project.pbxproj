@@ -19,6 +19,7 @@
 		11DAD33F2BC7CCDF0021D16C /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11DAD33E2BC7CCDF0021D16C /* NetworkManager.swift */; };
 		11DAD3422BC7DC620021D16C /* Product.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 11DAD3402BC7DC620021D16C /* Product.xcdatamodeld */; };
 		11F61FFD2BC91CF10057377A /* ProductView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11F61FFC2BC91CF10057377A /* ProductView.swift */; };
+		11F620012BC93AE20057377A /* WishListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11F620002BC93AE20057377A /* WishListTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		11DAD33E2BC7CCDF0021D16C /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		11DAD3412BC7DC620021D16C /* ProductEntity.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ProductEntity.xcdatamodel; sourceTree = "<group>"; };
 		11F61FFC2BC91CF10057377A /* ProductView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductView.swift; sourceTree = "<group>"; };
+		11F620002BC93AE20057377A /* WishListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WishListTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 			isa = PBXGroup;
 			children = (
 				11DAD32A2BC7C9DE0021D16C /* ViewController.swift */,
+				11F620002BC93AE20057377A /* WishListTableViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -205,6 +208,7 @@
 			files = (
 				11F61FFD2BC91CF10057377A /* ProductView.swift in Sources */,
 				11DAD33F2BC7CCDF0021D16C /* NetworkManager.swift in Sources */,
+				11F620012BC93AE20057377A /* WishListTableViewController.swift in Sources */,
 				11DAD32B2BC7C9DE0021D16C /* ViewController.swift in Sources */,
 				11DAD3272BC7C9DE0021D16C /* AppDelegate.swift in Sources */,
 				11DAD3292BC7C9DE0021D16C /* SceneDelegate.swift in Sources */,
