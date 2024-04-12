@@ -18,6 +18,7 @@
 		11DAD33D2BC7CC870021D16C /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11DAD33C2BC7CC870021D16C /* CoreDataManager.swift */; };
 		11DAD33F2BC7CCDF0021D16C /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11DAD33E2BC7CCDF0021D16C /* NetworkManager.swift */; };
 		11DAD3422BC7DC620021D16C /* Product.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 11DAD3402BC7DC620021D16C /* Product.xcdatamodeld */; };
+		11F61FFD2BC91CF10057377A /* ProductView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11F61FFC2BC91CF10057377A /* ProductView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		11DAD33C2BC7CC870021D16C /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
 		11DAD33E2BC7CCDF0021D16C /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		11DAD3412BC7DC620021D16C /* ProductEntity.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ProductEntity.xcdatamodel; sourceTree = "<group>"; };
+		11F61FFC2BC91CF10057377A /* ProductView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 		11DAD34B2BC7DFD30021D16C /* View */ = {
 			isa = PBXGroup;
 			children = (
+				11F61FFC2BC91CF10057377A /* ProductView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11F61FFD2BC91CF10057377A /* ProductView.swift in Sources */,
 				11DAD33F2BC7CCDF0021D16C /* NetworkManager.swift in Sources */,
 				11DAD32B2BC7C9DE0021D16C /* ViewController.swift in Sources */,
 				11DAD3272BC7C9DE0021D16C /* AppDelegate.swift in Sources */,
